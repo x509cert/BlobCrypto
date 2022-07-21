@@ -9,7 +9,7 @@
     <PackageReference Include="azure.core" Version="1.16.0" />
     <PackageReference Include="azure.identity" Version="1.4.0" />
     <PackageReference Include="azure.security.keyvault.keys" Version="4.2.0" />
-    <PackageReference Include="azure.storage.blobs" Version="12.9.1" />
+    <PackageReference Include="azure.storage.blobs" Version="12.13.0" />
     <PackageReference Include="system.collections" Version="4.3.0" />
   </ItemGroup>
 
